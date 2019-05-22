@@ -3,10 +3,5 @@
   "description": "Justified Gallery for Packagist. v3.7.0",
   "keywords": ["skewer", "justified-gallery"],
   "type": "skewer-extension",
-  "license": "MIT",
-  "extra": {
-    "branch-alias": {
-      "master": "v3.7.0.1"
-    }
-  }
+  "license": "MIT"
 }
